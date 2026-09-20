@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="VisualElement" style="flex-grow: 1;">
+        <ui:Label tabindex="-1" text="You Have Collected&#10;      /10 Food Items" parse-escape-sequences="true" display-tooltip-when-elided="true" name="TopText" style="position: absolute; top: 120px; left: 691px; font-size: 69px; color: rgb(255, 255, 255); height: 100px; width: 339px;">
+            <ui:Label tabindex="-1" text="0" parse-escape-sequences="true" display-tooltip-when-elided="true" name="amtCollected" style="position: absolute; font-size: 69px; top: 82px; left: 46px;" />
+        </ui:Label>
+    </ui:VisualElement>
+</ui:UXML>

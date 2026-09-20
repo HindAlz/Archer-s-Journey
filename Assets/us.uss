@@ -1,0 +1,4 @@
+.healthbar-size {
+    width: 550px;
+    height: 110px;
+}
